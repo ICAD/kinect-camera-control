@@ -1,2 +1,2 @@
-kinect-camera-control
+Kinect Camera Control v4
 =====================
